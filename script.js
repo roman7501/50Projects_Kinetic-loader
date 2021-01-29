@@ -13,5 +13,3 @@ setInterval(() => {
     triangle2.style.transform = `translateY(-100%) rotate(${rotation2}deg)`;
   }, 300);
 }, 1000);
-
-console.log(rotation);
